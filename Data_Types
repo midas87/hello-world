@@ -13,3 +13,5 @@ A do while is similar to a while loop. The only different is that the condition 
 do {
   do something
 } while(condition)
+
+Learning Twitter Bootstrap and Function for Javascript 
