@@ -7,3 +7,9 @@ Still working on Different Types of Data Types and also doing logic now.
 If else if statement and switch.... are logic function learning today!!!
 
 A While loop condition will always ran as long as the condition is true. it stops only when the condition is false.
+
+A do while is similar to a while loop. The only different is that the condition comes after the block of code
+
+do {
+  do something
+} while(condition)
